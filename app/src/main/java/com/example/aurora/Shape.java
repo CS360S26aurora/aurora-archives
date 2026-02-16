@@ -3,7 +3,7 @@ package com.example.aurora;
 public class Shape {
     int x;
     int y;
-    String color = "white";
+    String color = "blue";
     public Shape(int x, int y) {
         this.x = x;
         this.y = y;
